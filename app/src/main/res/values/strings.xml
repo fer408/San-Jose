@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">"San Jose Tour "</string>
+    <!--Info-->
+    
+    <!--Museums-->
+    <string name="tech_museum_info">The Tech Museum of Innovation, or simply The Tech, is a museum located in the heart of Silicon Valley, in downtown San Jose, California, United States. The Tech is a registered 501 nonprofit - Wikipedia</string>
+    <string name="san_jose_art_info">The San Jose Museum of Art is an art museum in Downtown San Jose, California, USA. Founded in 1969, the museum hosts a large permanent collection of West Coast artists of the 20th and 21st century. It is located next to the Circle of Palms Plaza and Plaza de César Chávez park - Wikipedia </string>
+    <string name="childrens_museum_info">Childrens Discovery Museum of San Jose CDM is located on Woz Way in downtown San Jose, California. Woz Way is named after Steve Wozniak, co-founder of Apple Computer, whose nickname is Woz, and who was the single largest private donor during the original capital campaign that funded the museum. - Wikipedia</string>
+    <string name="japanese_museum_info">The Japanese American Museum of San Jose (JAMsj) is located at 535 N. Fifth Street in San Jose, in the heart of Japantown. The museums mission is to collect, preserve, and share Japanese American art, history, and culture with an emphasis on the Greater San Francisco Bay Area. - Wikipedia</string>
+    <!--Attractions-->
+
+    
+    <string name="great_america_info"> Californias Great America is a 100-acre 40 ha amusement park located in Santa Clara, California. Owned and operated by Cedar Fair, it originally opened as Marriotts Great America in 1976 as
+        one of two parks built and operated by the Marriott Corporation. The park has appeared in 1994 films Beverly Hills Cop III and Getting Even with Dad and features over 40 rides and attractions. One of its most notable attractions, Gold Striker, has been featured as a top-ranked wooden roller coaster in Amusement Todays annual Golden Ticket Awards publication. - Wikipedia</string>
+    <string name="raging_waters_info">23-acre aquatic park boasts high-speed waterslides, a wave pool and an interactive themed water fort.</string>
+    <string name="santana_row_info">Santana Row is an outdoor shopping mall in San Jose, California. Westfield Valley Fair is located across Stevens Creek Boulevard from it, and the Winchester Mystery House is just to its west, across Winchester Boulevard. Wikipedia</string>
+    <string name="downtown_san_jose_info">Downtown San Jose is the central business district of San Jose, California, United States. The area is generally located north of Interstate 280 and east of Guadalupe Parkway, which roughly parallels the Guadalupe River. - Wikipedia</string>
+    
+    <!--Restaurants-->
+    <string name="sonoma_chicken_coop_info">Part of a fowl-focused mini-chain serving rotisserie chicken, pizza and steak in a fast-casual space. - Wikipedia</string>
+    <string name="fogo_de_chao_info">Upscale Brazilian chain for all-you-can-eat meat carved tableside plus an extensive salad bar.</string>
+    <string name="original_joes_info">Tuxedoed waiters dish up steaks and Italian eats at this historical spot with counter seating. - Wikipedia</string>
+    <string name="smash_burgers_info">Counter-serve chain featuring signature smashed burgers made with Angus beef, plus sides and shakes. - Wikipedia</string>
+
+
+    <!--Hotels-->
+    <string name="fairmont_hotel_info">Sophisticated lodging with 3 restaurants and meeting space, plus a spa and an outdoor pool</string>
+    <string name="valencia_hotel_info">Stylish hotel offering an outdoor pool, an upmarket restaurant and a seasonal rooftop bar.</string>
+    <string name="marriot_info">Chic quarters with pillow-top mattresses, plus a trendy steakhouse, a flashy bar and an outdoor pool.</string>
+    <string name="hilton_info">Sleek business lodging offering airy rooms, plus an outdoor pool, modern restaurant and meeting rooms.</string>
+    
+    
+    <!--Address-->
+
+    <!--Museums-->
+    <string name="tech_museum_address">Address: 201 S Market St, San Jose, CA 95113</string>
+    <string name="san_jose_art_address">110 South Market Street,San Jose, California 95113</string>
+    <string name="childrens_museum_address"> 180 Woz Way, San Jose, California 95110</string>
+    <string name="japanese_museum_address">535 N. Fifth Street, San Jose, CA</string>
+
+
+    <!--Attractions-->
+    <string name="great_america_address">4701 Great America Pkwy, Santa Clara, CA 95054</string>
+    <string name="raging_waters_address">2333 S White Rd, San Jose, CA 95148</string>
+    <string name="santana_row_address"> 377 Santana Row, San Jose, CA 95128</string>
+    <string name="downtown_san_jose_address">Downtown San Jose, San Jose, CA</string>
+
+    <!--Restaurants-->
+    <string name="sonoma_chicken_coop_address">90 Skyport Dr #100, San Jose, CA 95110</string>
+    <string name="fogo_de_chao_address">Santana Row, 377 Santana Row #1090, San Jose, CA 95128</string>
+    <string name="original_joes_adress">301 S 1st St, San Jose, CA 95113</string>
+    <string name="smash_burgers_adress"> San Jose Market Center, 579 Coleman Ave, San Jose, CA 95110</string>
+
+    <!--Hotels-->
+    <string name="fairmont_hotel_address">170 S Market St, San Jose, CA 95113</string>
+    <string name="valencia_hotel_address">Santana Row, 355 Santana Row, San Jose, CA 95128</string>
+    <string name="marriot_address">301 S Market St, San Jose, CA 95113</string>
+    <string name="hilton_address"> 300 S Almaden Blvd, San Jose, CA</string>
+    
+    
+    
+</resources>

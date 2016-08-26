@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/main_screen_color"
+    tools:context="com.example.android.sanjosetour.MainActivity">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/imageView"
+        android:src="@drawable/sj"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:layout_width="@dimen/button_width"
+        android:layout_height="wrap_content"
+        android:text="Museums"
+        android:id="@+id/museum_btn"
+        android:background="@color/button_color"
+        android:layout_below="@+id/imageView"
+        android:layout_marginTop="@dimen/button_margin_top"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="@dimen/button_width"
+        android:layout_height="wrap_content"
+        android:text="Attractions"
+        android:id="@+id/attractions_btn"
+        android:layout_below="@+id/museum_btn"
+        android:layout_marginTop="@dimen/button_margin_top"
+        android:background="@color/button_color"
+        android:layout_alignRight="@+id/restaurants_btn"
+        android:layout_alignEnd="@+id/restaurants_btn" />
+
+    <Button
+        android:layout_width="@dimen/button_width"
+        android:layout_height="wrap_content"
+        android:text="Restaurants"
+        android:id="@+id/restaurants_btn"
+        android:layout_marginTop="@dimen/button_margin_top"
+        android:background="@color/button_color"
+        android:layout_below="@+id/attractions_btn"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="@dimen/button_width"
+        android:layout_height="wrap_content"
+        android:text="Hotels"
+        android:id="@+id/hotels_btn"
+        android:layout_marginTop="@dimen/button_margin_top"
+        android:background="@color/button_color"
+        android:layout_below="@+id/restaurants_btn"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>
